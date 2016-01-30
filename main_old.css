@@ -7,19 +7,12 @@
 
 html{ height: 100%;}
 
-#wrapper{
-	width: 960px;
-	margin: 0 auto;
-	background-color:#000;
-	height: 100%;
-	background-color: #7f8f6f;
-}
-
 body{
 	margin:0px;
 	background:#000;
 	min-height: 100%;
 	position: relative;
+	padding-bottom: 3em;
 }
 
 footer { 
@@ -27,14 +20,11 @@ footer {
 	position: absolute; 
 	bottom: 0;
 	background-color: #111;
-	width: 960px;
-	margin: 0 auto;
-	left: 0;
-	right: 0;
+	width: 100%;
+	margin: 0px auto;
 }
 
 footer  p{
-	padding-left:12;
 	color: white;
 	
 }
@@ -48,7 +38,9 @@ header {
 	margin:0px auto;	
 }
 
-header h1{
+
+
+h1{
 	text-align: left;
 	font-size: 60pt;
 	font-weight: bold;
@@ -58,22 +50,22 @@ header h1{
 	margin-left: 10;
 }
 
-header ul {
+ul {
     list-style-type: none;
     margin: 0;
-	margin-top: 23;
+	margin-top: 21;
     padding: 0;
     overflow: hidden;
     background-color: #333;
 }
 
-header ul li {
+li {
     float: left;
 	font-family: "squiddy";
 	font-size: 20pt;
 }
 
-header ul li a {
+li a {
     display: block;
     color: white;
     text-align: center;
@@ -81,24 +73,19 @@ header ul li a {
     text-decoration: none;
 }
 
-header ul li a:hover:not(.active) {
+a:hover:not(.active) {
     background-color: #111;
 }
 
 .active {
-	background-color:#ffffff;
-	color: #000000;
+background-color:#ffffff;
+color: #000000;
 }
 
-#content{
-	width: 960px;
-	position: relative;
-	margin-left: auto;
-	margin-right: auto;
-	height: auto;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-    font-weight: 300;
-	font-size: 24px;
-	margin-left: 15;
-}
 
+content{
+	width:960px;
+	background: #F0F0F0;
+	height: 2000px;
+	margin: 20px auto;
+}
