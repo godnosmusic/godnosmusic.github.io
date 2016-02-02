@@ -386,8 +386,8 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
-	width:740px;
-    height:480px;
+	width:720px;
+    height:540px;
     text-align: center;
 	color: white;
    }
@@ -398,7 +398,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text3{
     position:absolute;
@@ -407,7 +410,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text4{
     position:absolute;
@@ -416,7 +422,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text5{
     position:absolute;
@@ -425,7 +434,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text6{
     position:absolute;
@@ -434,7 +446,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text7{
     position:absolute;
@@ -443,7 +458,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text8{
     position:absolute;
@@ -452,7 +470,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text9{
     position:absolute;
@@ -461,7 +482,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text10{
     position:absolute;
@@ -470,7 +494,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text11{
     position:absolute;
@@ -479,7 +506,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
 #text12{
     position:absolute;
@@ -488,5 +518,8 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+    width:720px;
+    height:540px;
     text-align: center;
+	color: white;
    }
