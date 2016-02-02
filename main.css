@@ -139,7 +139,6 @@ header ul li a:hover:not(.active) {
 #check12:checked ~ label #cover12{
     display:block;
     }
-	
 #cover1{
     position:fixed;
     top:0;
