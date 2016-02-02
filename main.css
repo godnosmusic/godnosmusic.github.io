@@ -112,3 +112,16 @@ header ul li a:hover:not(.active) {
     left: 35%;
     z-index: 99;
 }
+
+#divOverlay
+{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #CCC;
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    z-index: 98;
+}
