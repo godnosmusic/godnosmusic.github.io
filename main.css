@@ -101,4 +101,14 @@ header ul li a:hover:not(.active) {
 	font-size: 24px;
 	margin-left: 15;
 }
-
+/*http://stackoverflow.com/questions/25538225/how-to-make-pop-up-image-using-css3*/
+#divLargerImage
+{
+    display: none;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    z-index: 99;
+}
