@@ -173,3 +173,5 @@ header ul li a:hover:not(.active) {
     display:block;
     clear:both;
     }
+	
+#lightbox-container-image img { width:auto; max-height:520px; }
