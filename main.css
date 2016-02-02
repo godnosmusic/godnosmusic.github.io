@@ -386,7 +386,10 @@ header ul li a:hover:not(.active) {
     left:0;
     right:0;
     margin:auto;
+	width:720px;
+    height:480px;
     text-align: center;
+	color: white;
    }
 #text2{
     position:absolute;
