@@ -101,3 +101,29 @@ header ul li a:hover:not(.active) {
 	font-size: 24px;
 	margin-left: 15;
 }
+
+/*http://stackoverflow.com/questions/25538225/how-to-make-pop-up-image-using-css3*/
+
+#cover{
+position:absolute;
+top:0;
+bottom:0;
+left:0;
+right:0;
+background:rgba(0,0,0,0.5);
+display:none;
+}
+#box{
+position:absolute;
+top:0;
+bottom:0;
+left:0;
+right:0;
+margin:auto;
+width:400px;
+height:400px;
+border:10px solid white;
+}
+#check:checked ~ label #cover{
+display:block;
+}
