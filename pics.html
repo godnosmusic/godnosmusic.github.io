@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <head>
   <link rel="stylesheet" type="text/css" href="main.css">
-  <script src="jquery-1.12.0.min.js"></script>
-  <script src="lightbox.js"></script>
+  <script src="/jquery-1.12.0.min.js"></script>
 </head>
 <body>
   <div id="wrapper">
@@ -37,5 +35,20 @@
       </footer>
 	</div>  
   </div>
-  
+<script type="text/javascript">
+$(document).ready(function()
+
+{
+$('a img').click(function () {
+    var $img = $(this);
+    
+$('#divLargerImage').html($img.clone().height(250).width(250)).add($('#divOverlay')).fadeIn();
+});
+
+$('#divLargerImage').add($('#divOverlay')).click(function () {
+    $('#divLargerImage').add($('#divOverlay')).fadeOut(function () {
+        $('#divLargerImage').empty();
+    });
+});
+}
 </body>
