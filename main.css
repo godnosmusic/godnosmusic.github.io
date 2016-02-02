@@ -144,7 +144,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover2{
@@ -153,7 +153,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover3{
@@ -162,7 +162,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover4{
@@ -171,7 +171,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover5{
@@ -180,7 +180,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover6{
@@ -189,7 +189,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover7{
@@ -198,7 +198,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover8{
@@ -207,7 +207,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover9{
@@ -216,7 +216,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover10{
@@ -225,7 +225,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover11{
@@ -234,7 +234,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #cover12{
@@ -243,7 +243,7 @@ header ul li a:hover:not(.active) {
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.9);
     display:none;
 }
 #box1{
@@ -255,7 +255,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box2{
     position:absolute;
@@ -266,7 +266,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box3{
     position:absolute;
@@ -277,7 +277,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box4{
     position:absolute;
@@ -288,7 +288,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box5{
     position:absolute;
@@ -299,7 +299,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box6{
     position:absolute;
@@ -310,7 +310,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box7{
     position:absolute;
@@ -321,7 +321,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box8{
     position:absolute;
@@ -332,7 +332,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box9{
     position:absolute;
@@ -343,7 +343,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box10{
     position:absolute;
@@ -354,7 +354,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box11{
     position:absolute;
@@ -365,7 +365,7 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
 #box12{
     position:absolute;
@@ -376,5 +376,5 @@ header ul li a:hover:not(.active) {
     margin:auto;
     width:400px;
     height:400px;
-    border:2px solid black;
+    border:2px solid white;
 }
