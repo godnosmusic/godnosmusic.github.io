@@ -101,7 +101,40 @@ header ul li a:hover:not(.active) {
 	margin-left: 15;
 	margin-top: 15;
 }
-#check:checked ~ label #cover{
+#check1:checked ~ label #cover{
+    display:block;
+    }
+#check2:checked ~ label #cover{
+    display:block;
+    }
+#check3:checked ~ label #cover{
+    display:block;
+    }
+#check4:checked ~ label #cover{
+    display:block;
+    }
+#check5:checked ~ label #cover{
+    display:block;
+    }
+#check6:checked ~ label #cover{
+    display:block;
+    }
+#check7:checked ~ label #cover{
+    display:block;
+    }
+#check8:checked ~ label #cover{
+    display:block;
+    }
+#check9:checked ~ label #cover{
+    display:block;
+    }
+#check10:checked ~ label #cover{
+    display:block;
+    }
+#check11:checked ~ label #cover{
+    display:block;
+    }
+#check12:checked ~ label #cover{
     display:block;
     }
 	
